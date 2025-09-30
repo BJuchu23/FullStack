@@ -1,0 +1,18 @@
+# Node / React
+client-react/node_modules/
+client-react/.vite/
+client-react/dist/
+client-react/.env
+
+# .NET / Visual Studio
+server-dotnet/ServerAPI/bin/
+server-dotnet/ServerAPI/obj/
+server-dotnet/ServerAPI/.vs/
+server-dotnet/ServerAPI/*.user
+server-dotnet/ServerAPI/*.suo
+server-dotnet/ServerAPI/*.log
+server-dotnet/ServerAPI/.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
