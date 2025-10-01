@@ -28,7 +28,32 @@ la aplicación web
    -.Net Core
    
 5. Capturas.
-6. Bonus Implementados.
+   
+   -Lista de Productos / Vista Principal.
+   <img width="1255" height="632" alt="image" src="https://github.com/user-attachments/assets/04f3cfc6-4259-44e2-b72b-4330e219a74f" />
+
+   -Creación de Producto.
+   <img width="1600" height="336" alt="image" src="https://github.com/user-attachments/assets/c328444c-036b-4cb2-8974-996da500befa" />
+
+
+   -Editar Producto.
+   <img width="1600" height="461" alt="image" src="https://github.com/user-attachments/assets/7e31d38e-aa4d-4fd3-a756-a055c6c152b6" />
+
+
+   -Detalle de Producto.
+   <img width="907" height="424" alt="image" src="https://github.com/user-attachments/assets/a57ad7ca-3664-4084-aa3c-512e4ab11f0c" />
+
+
+   -Borrar productos.
+   
+   <img width="580" height="329" alt="image" src="https://github.com/user-attachments/assets/32f1c006-ec71-415e-bdb2-d7bcfc23e19e" />
+
+Nota Importante: Durante el desarrollo de la interfaz se consideró la incorporación de TailwindCSS como framework de estilos con el fin de mejorar la presentación visual. Sin embargo, debido a limitaciones en la configuración del entorno, la integración no se mantuvo activa en la versión final del proyecto.
+
+A pesar de ello, la aplicación en React cumple plenamente con los requerimientos funcionales solicitados, y se deja planteada la posibilidad de integrar un framework de estilos en futuras versiones para optimizar la experiencia visual.
+
+   
+7. Bonus Implementados.
 
    -Documentación de la API: en este caso la documentación de la API fue implementada utilizando
    Scalar.AspNetCore, el cual genera automáticamente la especificación OpenAPI y una interfaz
